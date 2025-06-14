@@ -1,0 +1,1 @@
+Here's a quick simple project showcasing an issue with Ebitengine playing audio back before the loop has initialized. I've observed this behavior on a virtual device as well as a physical Android device, with the latest stable version of Ebitengine.
